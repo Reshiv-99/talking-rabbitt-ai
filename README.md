@@ -25,7 +25,7 @@ pip install -r requirements.txt
 streamlit run app.py
 
 ## Demo
-Deployed URL: https://your-streamlit-link
+Deployed URL:  https://talking-rabbitt-ai-lh7e6enwceh4eek8d4djpe.streamlit.app/
 
 ## Author
 Reshiv Arora
